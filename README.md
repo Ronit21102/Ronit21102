@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ronit21102
 - 👀 I’m interested in ...Jobs in IT field
-- 🌱 I’m currently learning ...React js
+- 🌱 I’m currently learning ...Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ronit21102@gmail.com
 
