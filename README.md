@@ -2,11 +2,16 @@
 <h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Ronit Roushan</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-![](https://komarev.com/ghpvc/?username=Khushal-ag)
+![](https://komarev.com/ghpvc/?username=Ronit21102)
 
 ```markdown
 
 - 📫 How to reach me ronit21102.com
+
+```
+```markdown
+
+- 📫 Currently learning web scrapping
 
 ```
 
@@ -39,12 +44,6 @@
 ## 📝 IDE Used:
 ![][vscode] ![][pycharm] ![][intelij] ![][arch] <br><br>
 
-## 📊 Contribution Stats:
-
-| _Github Stats_ |  _Streaks_   |
-| :------------: | :----------: |
-|   ![][stats]   | ![][streaks] |
-
 ## 📰 Top Languages
 
 ![langs]
@@ -54,7 +53,7 @@
 
 <div align = "center">
   
-![snake] <br/>  <br/> ![graph]
+![snake] <br/>  
 
 </div>
 
