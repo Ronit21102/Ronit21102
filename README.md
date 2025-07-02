@@ -1,15 +1,14 @@
 <h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Ronit Roushan</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-![](https://komarev.com/ghpvc/?username=Ronit21102)
 
+
+## 📱 Connect with me:
 ```markdown
 
 ronit21102.com
 
 ```
-
-## 📱 Connect with me:
 <br>
 <p align="left">
 
@@ -21,8 +20,6 @@ ronit21102.com
 <a href="https://www.geeksforgeeks.org/user/ronit21102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="starkhush5" height="30" width="40" /></a>
 </p>
 
-## 🏆 Github Trophies:
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal-ag&row=1&column=-1&theme=gruvbox" alt="khushal-ag" /></a> </div>
 
 ## 💻 Tech Stack:
 <div align="center">
