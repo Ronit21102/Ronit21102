@@ -1,8 +1,9 @@
+![ChatGPT Image Jul 2, 2025, 11_12_01 AM](https://github.com/user-attachments/assets/bcbe69ed-1423-447f-b468-06f4ee198241)
 
 <h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Ronit Roushan</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-![](https://komarev.com/ghpvc/?username=Khushal-ag)
+![](https://komarev.com/ghpvc/?username=Ronit21102)
 
 ```markdown
 
