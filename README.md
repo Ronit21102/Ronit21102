@@ -34,9 +34,7 @@ ronit21102.com
 ## 📝 IDE Used:
 ![][vscode] ![][pycharm] ![][intelij] ![][arch] <br><br>
 
-## 📰 Top Languages
 
-![langs]
 
 
 ## 💹 Contribution Graph:
